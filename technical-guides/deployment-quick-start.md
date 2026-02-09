@@ -17,14 +17,22 @@ There are many tools that offer free deployment options. The one we use at HYF i
 
 1. Create an account on [render.com](https://render.com) if you don't have one already. 
 2. Find the option to create a new web service.
-    ![New Web Service](./assets/deployment-new-web-service.png)
-3. Connect to the GitHub repository you wish to deploy.
-    ![Connect to GitHub](./assets/deployment-github.png)
-4. Most of the default settings should be fine, but make sure your it all looks correct. **It's important to select the Free plan**. The `Start Command` should also likely match the same command you use to start your server locally.
-    ![Free Plan](./assets/deployment-freeplan.png)
-5. Click Deploy and wait for the build to finish. You will find the public url at the top of your service.
-    ![Free Plan](./assets/deployment-success.png)
-6. Everything should now be deployed!
+
+   ![New Web Service](./assets/deployment-new-web-service.png)
+   
+4. Connect to the GitHub repository you wish to deploy.
+
+   ![Connect to GitHub](./assets/deployment-github.png)
+   
+6. Most of the default settings should be fine, but make sure your it all looks correct. **It's important to select the Free plan**. The `Start Command` should also likely match the same command you use to start your server locally.
+
+   ![Free Plan](./assets/deployment-freeplan.png)
+   
+8. Click Deploy and wait for the build to finish. You will find the public url at the top of your service.
+
+   ![Free Plan](./assets/deployment-success.png)
+   
+10. Everything should now be deployed!
 
 ## Tips
 
