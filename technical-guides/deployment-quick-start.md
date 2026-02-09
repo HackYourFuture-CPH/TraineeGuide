@@ -30,7 +30,7 @@ There are many tools that offer free deployment options. The one we use at HYF i
    
 8. Click Deploy and wait for the build to finish. You will find the public url at the top of your service.
 
-   ![Free Plan](./assets/deployment-success.png)
+   ![Public URL](./assets/deployment-success.png)
    
 10. Everything should now be deployed!
 
